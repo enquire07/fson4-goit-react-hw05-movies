@@ -1,0 +1,28 @@
+h2 {
+  text-align: center;
+}
+.reviews {
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+h2 {
+  color: #343a40;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+p {
+  color: #495057;
+}
+
+strong {
+  color: #343a40;
+}

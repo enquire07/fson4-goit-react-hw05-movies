@@ -1,0 +1,35 @@
+/* src/components/Movies/Movies.module.css */
+.container {
+  padding: 20px;
+}
+
+.moviesList {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.movieItem {
+  margin: 10px;
+  width: 150px;
+}
+
+.thumbnail {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.placeholder {
+  width: 100%;
+  height: 225px; /* Approximate height of a 500px wide poster */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ccc;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+}
