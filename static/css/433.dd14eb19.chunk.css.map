@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/433.dd14eb19.chunk.css","mappings":"AAAA,uBACE,YACF,CAEA,GACE,aACF,CAEA,GACE,eAAgB,CAChB,SACF,CAEA,GACE,aACF","sources":["components/Home/Home.module.css"],"sourcesContent":[".container {\n  padding: 20px;\n}\n\nh1 {\n  font-size: 2em;\n}\n\nul {\n  list-style: none;\n  padding: 0;\n}\n\nli {\n  margin: 10px 0;\n}\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/76.e52d615d.chunk.css","mappings":"AAAA,GACE,iBACF,CACA,kBAGE,WAAY,CAFZ,YAAa,CACb,UAEF","sources":["components/Cast/Cast.module.css"],"sourcesContent":["h2 {\n  text-align: center;\n}\n.cast {\n  padding: auto;\n  width: auto;\n  height: auto;\n}\n"],"names":[],"sourceRoot":""}
